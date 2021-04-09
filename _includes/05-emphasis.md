@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My fav programming languages are:
+*C programmimg*
+_C++ _
+
+**java**
+__python__
+
+_waiting to learn  **new technologies** in future_
